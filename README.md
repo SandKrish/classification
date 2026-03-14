@@ -1,5 +1,8 @@
 
-# Classification
+# Classification Algorithms
+
+This repository contains notebooks demonstrating different classification techniques in machine learning.
+# Projects
 
 ## [1. Class Imbalance Dataset](https://github.com/SandKrish/Classification_Prediction/blob/main/imbalance-insurance-data-analysis.ipynb)
 This notebook is used to analyze Insurance Imbalance Data.
@@ -46,3 +49,6 @@ On April 15, 1912, during the maiden voyage of Titanic, the widely considered �
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 
 Logistic Regression Machine Learning algorithm is modeled, to a predictive the answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
+
+## Author
+Sandhya Krishnan
